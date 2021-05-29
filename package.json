@@ -1,5 +1,5 @@
 {
-  "name": "@johnstringer/taro",
+  "name": "@johnstringer/bones",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -65,12 +65,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhnstrngr/taro.git"
+    "url": "git+https://github.com/jhnstrngr/bones.git"
   },
   "author": "John Stringer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhnstrngr/taro/issues"
+    "url": "https://github.com/jhnstrngr/bones/issues"
   },
-  "homepage": "https://github.com/jhnstrngr/taro#readme"
+  "homepage": "https://github.com/jhnstrngr/bones#readme"
 }
